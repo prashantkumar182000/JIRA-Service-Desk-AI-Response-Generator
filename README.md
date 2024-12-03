@@ -1,4 +1,4 @@
-# Forge Hello World
+# JIRA-Service-Desk-AI-Response-Generator
 
 This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira Service Management Customer Portal Request Detail Panel. 
 
